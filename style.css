@@ -1,0 +1,29 @@
+body{
+   text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    font-size:30px;
+}
+.img1{
+    width=400px;
+    margin-left: auto;
+}
+#sec12{
+    z-index: 9;
+    background:linear-gradient(#91c8c9 0%, #2f66a8 100%);
+    height: 800px;
+    font-family: cursive;
+    color: black;
+    width: 100%;
+    height: 100%;
+    left: 0; 
+     right: 0; 
+     top: 0; 
+     bottom: 0; 
+}
+#sec2{
+    background-color: black;
+    color: aliceblue;
+}
+#qwqw{
+    color: aqua;
+}
